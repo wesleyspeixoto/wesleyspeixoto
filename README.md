@@ -40,7 +40,7 @@
 
 ### Github Stats
 
-[![HitCount](http://hits.dwyl.io/Naereen/badges.svg)](http://hits.dwyl.io/Naereen/badges)
+[![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=wesleyspeixoto&show_icons=true&count_private=true)](https://github.com/wesleyspeixoto)
 
 ### Github Repos
 
