@@ -37,6 +37,6 @@
 
 ### Github Repos
 
-A maioria dos meus repositórios são privados, caso queira conhecer mais sobre o meu trabalho é só entrar em contato.
+A maioria dos meus repositórios são privados, caso queira conhecer mais sobre o meu trabalho é só entrar em contato :).
 
 
