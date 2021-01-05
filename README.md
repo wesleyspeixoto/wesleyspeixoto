@@ -1,19 +1,21 @@
 <p align="center">
  <img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Circle-icons-dev.svg/512px-Circle-icons-dev.svg.png" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
+ <h2 align="center">Perfil</h2>
 </p>
 
-### Hi there 👋 I'm [Wesley Miguel dos Santos Peixoto]
-> Full Stack Developer
+### Hi there 👋 I'm Wesley Miguel dos Santos Peixoto.
+> Desenvolvedor Full Stack
 
-
-<img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
 
 <div>
  <p>
-I am Mid-level Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
+  Tenho 25 anos, atualmente trabalho com desenvolvimento de sistemas Web, Mobile e Desktop. Sou
+  apaixonado por Javascript e sua flexibilidade em conseguir trazer um ambiente único para diferentes
+  tipos de dispositivos. Mas o foco não são as linguagens e sim os problemas que elas
+  podem resolver.
 
-I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
+
+  Tenho excelentes habilidades de design e codificação, bem como a capacidade de converter requisitos em aplicações.
 </p>
 </div>
 
