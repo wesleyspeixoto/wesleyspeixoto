@@ -1,6 +1,6 @@
 <p align="center">
  <img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Circle-icons-dev.svg/512px-Circle-icons-dev.svg.png" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
+ <h2 align="center">Wesley Miguel dos Santos Peixoto</h2>
 </p>
 
 ### Hi there 👋 I'm [Anand K. Mainali](https://anandmainali.com.np)
