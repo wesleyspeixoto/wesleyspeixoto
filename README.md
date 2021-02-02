@@ -9,13 +9,11 @@
 
 <div>
  <p>
-  Tenho 25 anos, atualmente trabalho com desenvolvimento de sistemas Web, Mobile e Desktop. Sou
-  apaixonado por Javascript e sua flexibilidade em conseguir trazer um ambiente único para diferentes
-  tipos de dispositivos. Mas o foco não são as linguagens e sim os problemas que elas
-  podem resolver.
+Apaixonado por todo Ecossistema Web, Entusiasta de 6 anos de experiência profissional atuando como desenvolvedor Full Stack na solução dos mais diversos problemas. O ecossistema Python, Javascript e Devops fazem parte do meu dia a dia. Trabalho com padrões de arquitetura como MVC, Clean Architecture, SOLID e também com abordagens como o TDD. Faço uso de banco de dados como Mysql, MariaDB, PostgreSQL, MongoDB e Redis. Trabalho também com orquestradores de containers como Docker e Kubernetes.
 
+Gosto muito de fazer uso de tecnologias de comunicação em tempo real como Socket.IO e protocolos de Mensagens Assíncronas RabbitMQ. Experiência com processamento de imagens utilizando Python, Opencv, Dlib, YOLO e Darknet.  
 
-  Tenho excelentes habilidades de design e codificação, bem como a capacidade de converter requisitos em aplicações.
+Atualmente admirador da linguagem funcional Elixir e seu Framework Web Phoenix. Sólidos conhecimentos de padrões de arquitetura e facilidade de adsorção de novas tecnologias. 
 </p>
 </div>
 
