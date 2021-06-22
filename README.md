@@ -9,11 +9,15 @@
 
 <div>
  <p>
-Apaixonado por todo Ecossistema Web, Entusiasta de 6 anos de experiência profissional atuando como desenvolvedor Full Stack na solução dos mais diversos problemas. O ecossistema Python, Javascript e Devops fazem parte do meu dia a dia. Trabalho com padrões de arquitetura como MVC, Clean Architecture, SOLID e também com abordagens como o TDD. Faço uso de banco de dados como Mysql, MariaDB, PostgreSQL, MongoDB e Redis. Trabalho também com orquestradores de containers como Docker e Kubernetes.
+Apaixonado por todo Ecossistema Web, Entusiasta de 7 anos de experiência profissional atuando como desenvolvedor Full Stack na solução dos mais diversos problemas. O ecossistema Python, Javascript e Devops fazem parte do meu dia a dia. Trabalho com padrões de arquitetura como MVC, Clean Architecture, SOLID e também com abordagens como o TDD. Faço uso de banco de dados como Mysql, MariaDB, PostgreSQL, MongoDB e Redis. Trabalho também com orquestradores de containers como Docker e Kubernetes.
 
-Gosto muito de fazer uso de tecnologias de comunicação em tempo real como Socket.IO e protocolos de Mensagens Assíncronas RabbitMQ. Experiência com processamento de imagens utilizando Python, Opencv, Dlib, YOLO e Darknet.  
+Gosto muito de fazer uso de tecnologias de comunicação em tempo real como Socket.IO e protocolos de Mensagens Assíncronas RabbitMQ e Kafka.  
 
-Atualmente admirador da linguagem funcional Elixir e seu Framework Web Phoenix. Sólidos conhecimentos de padrões de arquitetura e facilidade de adsorção de novas tecnologias. 
+Aproximadamente 5 anos de  experiência com React e Next Js. Aproximadamente 2 anos de experiência com React Native e integrações nativas.
+
+Experiência com processamento de imagens utilizando Python, Opencv, Dlib, YOLO e Darknet.  
+
+Atualmente estudo algumas linguagens funcionais como o Elixir e seu Framework Web Phoenix. Sólidos conhecimentos de padrões de arquitetura e facilidade de adsorção de novas tecnologias.
 </p>
 </div>
 
