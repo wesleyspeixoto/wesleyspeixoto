@@ -4,7 +4,7 @@
 ### Contato.
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wesleyspeixoto/)](https://github.com/wesleyspeixoto)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/wesleyspeixoto/)](https://www.linkedin.com/in/wesley-peixoto-186b26157/)
-![Email Badge](https://img.shields.io/badge/Email-wesleymiguel%40gec.inatel.br-red)
+![Email Badge](https://img.shields.io/badge/Email-wesleymspeixoto@gmail.com-red)
 
 
 <div>
